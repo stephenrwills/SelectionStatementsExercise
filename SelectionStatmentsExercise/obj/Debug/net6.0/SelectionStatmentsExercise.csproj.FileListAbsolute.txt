@@ -1,0 +1,15 @@
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.csproj.AssemblyReference.cache
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.AssemblyInfoInputs.cache
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.AssemblyInfo.cs
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.csproj.CoreCompileInputs.cache
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\bin\Debug\net6.0\SelectionStatmentsExercise.exe
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\bin\Debug\net6.0\SelectionStatmentsExercise.deps.json
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\bin\Debug\net6.0\SelectionStatmentsExercise.runtimeconfig.json
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\bin\Debug\net6.0\SelectionStatmentsExercise.dll
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\bin\Debug\net6.0\SelectionStatmentsExercise.pdb
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.dll
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\refint\SelectionStatmentsExercise.dll
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.pdb
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\SelectionStatmentsExercise.genruntimeconfig.cache
+C:\Users\squiq\Desktop\Repos\SelectionStatmentsExercise\SelectionStatmentsExercise\obj\Debug\net6.0\ref\SelectionStatmentsExercise.dll
